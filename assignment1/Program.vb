@@ -63,6 +63,6 @@ Module StudentDetails
                     Console.WriteLine()
             End Select
 
-        Loop While choice <> 4
+        Loop While choice <> 3
     End Sub
 End Module
